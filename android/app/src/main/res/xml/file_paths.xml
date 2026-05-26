@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="utf-8"?>
+<paths>
+    <!-- App external movies directory -->
+    <external-files-path
+        name="recordings"
+        path="Movies/"/>
+
+    <!-- Fallback internal storage -->
+    <files-path
+        name="internal_recordings"
+        path="Movies/"/>
+
+    <!-- Cache dir for temp files -->
+    <cache-path
+        name="cache"
+        path="."/>
+</paths>
